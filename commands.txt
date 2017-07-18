@@ -1,0 +1,4 @@
+npm install d3 --save
+npm install typings -g
+typings install d3 --save
+ionic g page myPage
